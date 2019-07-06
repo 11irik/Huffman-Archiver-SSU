@@ -1,0 +1,11 @@
+C:\Users\Kiri11\RiderProjects\Kirill.Inc.Archiver\Kirill.Inc.Archiver\bin\Debug\netcoreapp2.2\Kirill.Inc.Archiver.deps.json
+C:\Users\Kiri11\RiderProjects\Kirill.Inc.Archiver\Kirill.Inc.Archiver\bin\Debug\netcoreapp2.2\Kirill.Inc.Archiver.runtimeconfig.json
+C:\Users\Kiri11\RiderProjects\Kirill.Inc.Archiver\Kirill.Inc.Archiver\bin\Debug\netcoreapp2.2\Kirill.Inc.Archiver.runtimeconfig.dev.json
+C:\Users\Kiri11\RiderProjects\Kirill.Inc.Archiver\Kirill.Inc.Archiver\bin\Debug\netcoreapp2.2\Kirill.Inc.Archiver.dll
+C:\Users\Kiri11\RiderProjects\Kirill.Inc.Archiver\Kirill.Inc.Archiver\bin\Debug\netcoreapp2.2\Kirill.Inc.Archiver.pdb
+C:\Users\Kiri11\RiderProjects\Kirill.Inc.Archiver\Kirill.Inc.Archiver\obj\Debug\netcoreapp2.2\Kirill.Inc.Archiver.csprojAssemblyReference.cache
+C:\Users\Kiri11\RiderProjects\Kirill.Inc.Archiver\Kirill.Inc.Archiver\obj\Debug\netcoreapp2.2\Kirill.Inc.Archiver.csproj.CoreCompileInputs.cache
+C:\Users\Kiri11\RiderProjects\Kirill.Inc.Archiver\Kirill.Inc.Archiver\obj\Debug\netcoreapp2.2\Kirill.Inc.Archiver.AssemblyInfoInputs.cache
+C:\Users\Kiri11\RiderProjects\Kirill.Inc.Archiver\Kirill.Inc.Archiver\obj\Debug\netcoreapp2.2\Kirill.Inc.Archiver.AssemblyInfo.cs
+C:\Users\Kiri11\RiderProjects\Kirill.Inc.Archiver\Kirill.Inc.Archiver\obj\Debug\netcoreapp2.2\Kirill.Inc.Archiver.dll
+C:\Users\Kiri11\RiderProjects\Kirill.Inc.Archiver\Kirill.Inc.Archiver\obj\Debug\netcoreapp2.2\Kirill.Inc.Archiver.pdb
